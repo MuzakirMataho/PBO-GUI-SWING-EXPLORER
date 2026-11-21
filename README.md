@@ -30,7 +30,7 @@
 
 | Tampilan Awal | Setelah Interaksi |
 |:---:|:---:|
-| ![Awal](screenshots/tampilan-awal.png) | ![Interaksi](screenshots/tampilan-interaksi.png) |
+| ![Awal](screenshot/tampilan-awal.png) | ![Interaksi](screenshot/tampilan-interaksi.png) |
 
 </div>
 
