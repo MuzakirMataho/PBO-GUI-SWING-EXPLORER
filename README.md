@@ -78,12 +78,11 @@ Komponen dasar yang langsung berinteraksi dengan pengguna.
 ## 🗂️ Struktur Repositori
 
 ```
-📦 eksplorasi-gui-java
- ┣ 📂 src
- ┃ ┗ 📜 MainGUI.java
- ┣ 📂 screenshots
+📦 PBO-GUI-SWING-EXPLORER
+ ┣ 📂 screenshot
  ┃ ┣ 🖼️ tampilan-awal.png
  ┃ ┗ 🖼️ tampilan-interaksi.png
+ ┣ 📜 MainGUI.java
  ┗ 📜 README.md
 ```
 
